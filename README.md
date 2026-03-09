@@ -51,7 +51,7 @@ This is a two-player Tic-Tac-Toe game built in Scratch as part of Harvard's CS50
 - **Stage** — initializes all variables and handles game reset
 - **Host Sprite** — announces turns, checks all 8 winning combinations, declares winner or draw
 - **Square Sprites (1–9)** — handle player clicks, update costumes and variables, broadcast game events
-
+- **Project link** - https://scratch.mit.edu/projects/1288397875
 
 ## Built With
 
